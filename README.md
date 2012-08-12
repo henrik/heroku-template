@@ -20,6 +20,8 @@ heroku config:set CANONICAL_HOST=myapp.nyh.name
 
 ## TODO
 
+* Airbrake
+* New Relic
 * Script to set this up and ask things like:
   * Use Slim/templates?
   * Use caching?
